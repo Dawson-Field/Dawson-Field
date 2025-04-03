@@ -4,7 +4,7 @@ I am a senior studying Data Engineering at Utah State University with a deep pas
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dawson-field) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dfield7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dawsontfield@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -28,7 +28,7 @@ I am a senior studying Data Engineering at Utah State University with a deep pas
 ### 🚀 Featured Projects
 - 🏈 [Fourth Down Decision Model](https://github.com/dawson-field/fourth-down-model): ML model to optimize 4th down calls using NFL data + PyCaret.
 - 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dawson-field&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dawson-field&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -36,7 +36,6 @@ I am a senior studying Data Engineering at Utah State University with a deep pas
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dawson-field&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=dawson-field&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
