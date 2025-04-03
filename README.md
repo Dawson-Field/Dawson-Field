@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Dawson Field
 I am a senior studying **Data Engineering** at Utah State University with a deep passion for **sports analytics** and **data-driven decision-making**. From building predictive models to creating dashboards and full-stack apps, I love solving real-world problems through code and data.
 
 Right now, I’m:
