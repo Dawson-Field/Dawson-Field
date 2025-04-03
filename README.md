@@ -52,7 +52,7 @@ I’m always looking to connect with others passionate about sports, data, and b
 
 ## 🚀 Featured Projects
 - 🏈 [Fourth Down Decision Model](https://github.com/Dawson-Field/nfl-4th-down-decision-model): ML model to optimize 4th down calls using NFL data + PyCaret.
-- ⛳ **LiveLinks** (coming soon): Full-stack app for live golf leaderboard used in real tournaments.
+- ⛳ **LiveLinks** (coming soon): Full-stack app for a live golf leaderboard to be used for tournament scoring.
   
 
 
