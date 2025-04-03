@@ -52,12 +52,7 @@ I’m always looking to connect with others passionate about sports, data, and b
 - 🏈 [Fourth Down Decision Model](https://github.com/Dawson-Field/nfl-4th-down-decision-model): ML model to optimize 4th down calls using NFL data + PyCaret.
 - ⛳ **LiveLinks** (coming soon): Full-stack app for live golf leaderboard used in real tournaments.
   
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dawson-field&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dawson-field&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dawson-field&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 
 
