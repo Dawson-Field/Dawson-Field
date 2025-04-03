@@ -29,7 +29,7 @@ I am a senior studying Data Engineering at Utah State University with a deep pas
 
 ## 🚀 Featured Projects
 - 🏈 [Fourth Down Decision Model](https://github.com/Dawson-Field/nfl-4th-down-decision-model): ML model to optimize 4th down calls using NFL data + PyCaret.
-- - ⛳ *LiveLinks*: Full-stack app for live golf leaderboard and social interaction. (Coming soon!)
+- ⛳ *LiveLinks*: Full-stack app for live golf leaderboard and social interaction. (Coming soon!)
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dawson-field&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
