@@ -3,9 +3,10 @@ I am a senior studying **Data Engineering** at Utah State University with a deep
 
 Right now, I’m:
 - ⚾ Leading the **USU Sports Analytics Club**
-- ⛳ Building a mobile app for **live golf tournament scoring**
-- 🏈 Developing a **machine learning model** to help teams make smarter **4th down decisions**
-- 📊 Working with real enrollment data as an **Analytics Intern** with USU Admissions
+- ⛳ Building a web app for **live golf tournament scoring**
+- 📊 Working with real enrollment data as an **Intern** with USU Admissions
+- ✅ Recently completed a **machine learning model** to help teams make smarter **4th down decisions** in football
+
 
 I’m always looking to connect with others passionate about sports, data, and building things that matter. Let’s collaborate!
 
