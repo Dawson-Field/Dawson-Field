@@ -25,7 +25,7 @@ I am a senior studying Data Engineering at Utah State University with a deep pas
 [![PyCaret](https://img.shields.io/badge/PyCaret-101010?style=for-the-badge&logo=python&logoColor=white)](https://pycaret.gitbook.io/)
 
 ## 🚀 Featured Projects
-- 🏈 [Fourth Down Decision Model](https://github.com/dawson-field/fourth-down-model): ML model to optimize 4th down calls using NFL data + PyCaret.
+- 🏈 [Fourth Down Decision Model](https://github.com/Dawson-Field/nfl-4th-down-decision-model): ML model to optimize 4th down calls using NFL data + PyCaret.
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dawson-field&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
