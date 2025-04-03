@@ -2,7 +2,10 @@
 I am a senior studying Data Engineering at Utah State University with a deep passion for sports analytics and data-driven decision-making. From building predictive models to creating dashboards and full-stack apps, I love solving real-world problems through code and data.<br><br>Right now, I’m:<br><br>Leading the USU Sports Analytics Club<br><br>Building a mobile app for live golf tournament scoring<br><br>Developing a machine learning model to help teams make better 4th down decisions in football<br><br>Working with real enrollment data as an analytics intern with USU Admissions<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dawson-field) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dfield7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dawsontfield@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawson-field) 
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dfield7) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawsontfield@gmail.com)
+
 
 ## 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
